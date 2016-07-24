@@ -1,0 +1,10 @@
+
+**** Build of configuration Nios II for project ad_nios ****
+
+make all 
+Info: Building ../ad_nios_bsp/
+make --no-print-directory -C ../ad_nios_bsp/
+[BSP build complete]
+[ad_nios build complete]
+
+**** Build Finished ****
